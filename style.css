@@ -1,0 +1,117 @@
+
+/* **********header-section********************/
+
+img{
+    max-width: 100%;
+}
+.container .image {
+    width: 90px;
+    margin-right: 403px;
+}
+
+
+
+
+
+
+/****************************banner-section************************************/
+.title-right{
+    margin-top: 130px;
+    margin-left: 30px;
+}
+.title-right h5{
+  color: #3a4046;
+}
+.title-right h2{
+    color: #343a40;
+    font-weight: 600;
+}
+.title-right p{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.title-left{
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+.title-left h6{
+    color: #3a4046;
+}
+.title-left h1{
+    color: #343a40;
+    font-weight: 600;
+}
+.title-left p{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.button-1 {
+    background-color:#8490ff;
+ 
+}
+/**********************Priceing-section**************** */
+.pricing-list{
+    background-color:#8490ff;
+}
+
+/* *********************Economy-section********************/
+.item h2{
+    height: 100px;
+    width: 100px;
+    background-color:#f9f9ff;
+}
+.text{
+    background-color:#f9f9ff;
+    color: #212529;
+}
+.text p{
+    font-weight: 500;
+}
+/*************Image-programmer***************/
+.card{
+    background-color:#ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card img {
+    width: 110px;
+    margin-top: -115px;
+    margin-left: 14px;
+}
+.card-body{
+    
+}
+.card-body p{
+    font-weight: 500;
+}
+
+/* ************Contact-sention*********/
+.tittle{
+    background-color:#f9f9ff;
+}
+.tittle h5{
+    font-weight: 600;
+    color: #2d3135;
+}
+.eight{
+    background-color: #ffffff;
+}
+.item-2{
+    margin-top: 110px;
+    margin-left: 10px;
+    text-align: left;
+    color: #2d3135;
+}
+.button-last{
+    background-color:#17a2b8;
+}
+
+/* **************foorer-section************* */
+.footer p{
+    background-color:#04091e;
+}
+
+
+
+
